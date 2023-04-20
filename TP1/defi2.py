@@ -1,0 +1,15 @@
+def main():
+    print((1+2)**3)
+    print("Da" * 4)
+    #print("Da" + 3)
+    print(("Pa"+"La") * 2)
+    #print(("Da"*4) / 2)
+    print(5 /2)
+    print(5 // 2)
+    print(5 %2)
+    print(str(4) * int("3"))
+    print(int("3") + float("3.2"))
+    #print(str(3) * float("3.2"))
+    print(str(3/4) * 2)
+main()
+
